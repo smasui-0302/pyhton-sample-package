@@ -17,3 +17,4 @@ class Square(Rectangle):
 if __name__ == '__main__':
     s = Square(10)
     print('area:' + str(s.area()))
+
